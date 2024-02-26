@@ -1,0 +1,136 @@
+EN-src,KIN-src,KIN-NLLB,BLEU,KIN-GPT
+What time is it?,Ni gihe ki?,Isaha ni iyihe,0.201576753,Sa saa ngapi?
+Where are the toilets?,Imisarani iri he?,Ubwiherero buri he,0.2140596392,Igiterane ni hehe?
+"Help me, please.",Nyabuneka mfasha.,"Mfasha, nyamuneka. ",0.4454357881,"Mfasha, mwamutse."
+I am American.,Ndi Umunyamerika.,Ndi umunyamerika.,0.7809325629,Ndi Umunyarwanda.
+What do you call this?,Ibi byitwa iki mu Kinyarwanda?,Ibi ubyita iki,0.316501463,Mwita icyo gitekerezo?
+What do you call these?,Biriya byitwa iki mu Kinyarwanda?,Ibi ubyita iki,0.224530027,Mwita icyo gitekerezo?
+What does this mean?,Ibi bisobanura iki?,Ibi bivuze iki,0.3881724654,Icyo gituma ibintu bikomeza kibagirwa?
+Is that correct?,Ibi ni ukuri?,Ese ibyo nibyo,3.03E-78,Ese ni cyangwa se?
+Did I pronounce it well?,Nabivuze neza?,Nabivuze neza?,0.9310627797,Cyane cyane mbwira icyo?
+Do you speak English?,Mbese uvuga icyongereza?,Uvuga icyongereza?,0.6879419394,Wavuga icyongereza?
+I don't speak much Kinyarwanda.,Simvuga Kinyarwanda kinshi.,Ntabwo mvuga ikinyarwanda cyane.,0.4740596855,Ntavuga Kinyarwanda cyane.
+Can you speak more slowly?,Wavuga witonze?,Urashobora kuvuga buhoro buhoro?,0.08333663409,"Wavuga bwite, mwamvuga hejuru?"
+Can you repeat that?,Subiramo.,Urashobora gusubiramo ibyo?,0.08791854022,"Mwongereho, mwamvuga hejuru?"
+"Please, write it down.",Wabinyandikira?,"Nyamuneka, wandike. ",0.2158937851,"Komeza, andike icyo mwamvuga hejuru."
+Can you translate this for me?,Wabinsobanurira?,Urashobora kumpindura ibi,5.76E-155,Mwamfasha kwandika iyi yandikishwa?
+I understand.,Ndasobanukiwe.,Ndabyumva.,3.46E-78,Ndagirango.
+I don't understand.,Sinsobanukiwe.,Ntabwo mbyumva neza.,9.61E-232,Simbona ubivuga.
+Do you understand?,Urasobanukiwe?,Urabyumva se,3.57E-78,Umvamo?
+I want something to eat.,Ndashaka icyo kurya.,Ndashaka icyo kurya.,0.9512294245,Nkora akazi nkora gusa kwitwa kuryama.
+I want something to drink.,Ndashaka icyo kunywa.,Ndashaka ikintu cyo kunywa.,0.6573468598,Nkora akazi nkora gusa kwitwa kuryama.
+I'm tired.,Ndananiwe.,Ndarushye.,4.64E-78,Ndi hagati.
+I'm lost.,Natakaye.,Ndatatanye.,5.84E-78,Ndi hasi.
+I'm looking for ...,Ndi gushaka ...,Ndi gushaka ...,0.935506985,Ndagira icyo nabonye...
+It is important.,"Ni ingenzi, ni ngombwa.",Ni ngombwa.,0.4249456196,Ni ngombwa.
+It is urgent.,Birihutirwa.,Birakenewe byihutirwa.,0.3336554596,Ni yateganyijwe.
+Hurry up!,Ihute.,Ihute!,0.7598356857,Teraheze!
+Here is my passport.,Dore paseporo yanjye.,Hano hari pasiporo yanjye.,0.5090289233,Ni iyi pasiporo yanjye.
+This is my passport.,Ngiyi paseporo yanjye.,Iyi ni pasiporo yanjye.,0.656161684,Iyi ni pasiporo yanjye.
+I'll be staying a few days.,Nzamara iminsi mike hano.,Nzagumaho iminsi mike.,0.5564423671,Ndagira ntago ntasubira gutangira iminsi.
+I'll be staying a few weeks.,Nzamara ibyumweru bike hano.,Nzagumaho ibyumweru bike.,0.6111299573,Ndagira ntago ntasubira gutangira imyaka.
+I don't know yet.,Sindabimenya.,Ntago ndabimenya.,0.6059306249,Sinzi iyo nzagira.
+I'm here on vacation.,Ndi hano ku mpamvu y'ibiruhuko.,Ndi hano mu biruhuko.,0.544805361,Ndagira hano kubakungu.
+I'm here for business.,Nje muri afere.,Ndi hano kubucuruzi.,5.25E-155,Ndagira hano kubafatanye mu bizinesi.
+I'm just passing through.,Ndi kwitemberera gusa.,Ndanyura gusa.,0.3501826208,Ndagira hano mbereyo gutangira.
+"I'm sorry, I don't understand.","Nyabuneka, sinsobanukiwe.","Mumbabarire, simbyumva. ",0.149089608,"Ndasaba izuba, sinzi icyabivugwa."
+I have nothing to declare.,Ntacyo mfite nerekana.,Ntacyo mfite cyo gutangaza.,0.4730881478,Ndi ntaregera kurandura.
+I have ...,Mfite...,Mfite ...,0.6101950432,Ndi niko...
+It is for personal use.,Ni icyo nkoresha kugiti cyanjye.,Ni ugukoresha wenyine.,0.303421151,Ni icyo nkoresha kugiti cyanjye.
+It is a gift.,Iyo ni impano.,Ni impano.,0.5956403593,Iyo ni impano.
+"Your passport, please.","Paseporo yawe, nyabuneka!","pasiporo yawe, nyamuneka. ",0.6744261198,"Paseporo yawe, nyabuneka!"
+Do you have anything to,Hari ikintu ufite cyo,Waba ufite icyo ushaka,0.3523351925,Hari ikintu ufite cyo
+declare?,kwerekana?,gutangaza ?,6.20E-155,kwerekana?
+"Please, open this bag.",Fungura iyi valisi (or) iki gikapo.,"Nyamuneka, fungura iyi sakoshi. ",0.3391824705,Fungura iyi valisi (or) iki gikapo.
+You will have to pay duty,Uratanga imisoro kuri,Uzagomba kwishyura umusoro,0.1619338697,Uratanga imisoro kuri
+on this.,iki. (or kuri ibi).,kuri ibi.,0.3903594391,iki. (or kuri ibi).
+Do you have more luggage?,Hari indi mitwaro ufite?,Ufite indi mizigo?,0.4165767637,Hari indi mitwaro ufite?
+Porter!,Umwikorezi,Porter!,6.37E-155,Umwikorezi
+Please take this luggage.,"Nyabuneka, fata uyu mutwaro. (or) iki",Nyamuneka fata iyivalisi.,0.2934871115,"Nyabuneka, fata uyu mutwaro. (or) iki"
+,gikapo.,,0,gikapo.
+That is mine.,Iki ni icyanjye. (c.d.),Uwo ni uwange.,0.166160887,Iki ni icyanjye. (c.d.)
+That is my bag.,Uyu ni umutwaro yanjye.,Iyo ni igikapu cyanjye.,0.3950598163,Uyu ni umutwaro yanjye.
+That is my suitcase.,Iyi ni ivalisi yanjye.,Iyo ni ivarisi yanjye.,0.7216888547,Iyi ni ivalisi yanjye.
+There is one piece missing.,Hari igice kibura.,Hariho igice kimwe cyabuze.,0.3710947412,Hari igice kibura.
+I want to make a reservation.,Ndashaka guteganya.,Ndashaka gukora reservation.,0.3558119737,Ndashaka guteganya.
+Where is the nearest hotel?,Hoteli ya bugufi ni iyihe?,Ni he hoteli yegereye cyane?,0.2930591251,Hoteli ya bugufi ni iyihe?
+Is it expensive?,Irahenda?,Birahenze?,0.4180134288,Irahenda?
+Where is a cheap guest house?,Amacumbi y'abashyitsi ahendutse ari he?,Ni he hari icumbi ry'abashyitsi rihendutse?,0.6534596935,Amacumbi y'abashyitsi ahendutse ari he?
+I want a single room.,Ndashaka icyumba cy'umuntu umwe.,Ndashaka icyumba cyumuntu umwe.,0.9157103754,Ndashaka icyumba cy'umuntu umwe.
+I want a double room.,Ndashaka icyumba cy'abantu babiri.,Ndashaka icyumba cy'abantu babiri.,0.9710165518,Ndashaka icyumba cy'abantu babiri.
+I want a room for my family.,Ndashaka icyumba cy'umuryango wanjye.,Ndashaka icyumba cyumuryango wanjye.,0.9278982724,Ndashaka icyumba cy'umuryango wanjye.
+Not too expensive.,Si igihendo cyane.,Ntabwo bihenze cyane.,0.4223157403,Si igihendo cyane.
+How much is it per night?,Ijoro rimwe ni angahe?,N'angahe ku ijoro?,0.3622755744,Ijoro rimwe ni angahe?
+What is included?,Hateganijwemo iki?,Ni ibihe bintu bikubiye muri ibi?,3.71E-155,Hateganijwemo iki?
+Is breakfast included?,Mu giciro harimo icyo gusamura?,Ese ifunguro rya mu gitondo ririmo?,0.2293344346,Mu giciro harimo icyo gusamura?
+Is mileage included?,Mbese ni ku kilometero muri icyo giciro?,Ese harimo n'urugendo rw'ibirometero?,0.2817610464,Mbese ni ku kilometero muri icyo giciro?
+Is gasoline included?,Harimo ikiguzi cya lisansi?,Ese lisansi iraharimo?,0.4263940297,Harimo ikiguzi cya lisansi?
+Is insurance included?,Mu bukodeshe harimo ikiguzi cy' ubwishigizi?,Ese ubwishingizi burahari?,0.3178740302,Mu bukodeshe harimo ikiguzi cy' ubwishigizi?
+Can I use a credit card?,Nakoresha ikarita yo kubikuza?,Nshobora gukoresha ikarita yinguzanyo?,0.4833272775,Nakoresha ikarita yo kubikuza?
+Here is my driver's license.,Ngiyi permi yanjye y'ubushoferi.,Hano hari uruhushya rwanjye rwo gutwara.,0.1809498222,Ngiyi permi yanjye y'ubushoferi.
+Please give me the bill.,"Nyabuneka, mpa fagitire.",Nyamuneka mpa fagitire.,0.7641254083,"Nyabuneka, mpa fagitire."
+I'm leaving tomorrow.,Nzagenda ejo mu gitondo.,Ndagenda ejo.,0.4187296869,Nzagenda ejo mu gitondo.
+Please have my bill ready.,Nyabuneka muntegurire fagitire ibe hafi.,Nyamuneka uzategure fagitire yanjye.,0.5465908824,Nyabuneka muntegurire fagitire ibe hafi.
+I must leave at once.,Ngomba kugenda byihutirwa.,Ngomba kugenda ako kanya.,0.5853410497,Ngomba kugenda byihutirwa.
+Would you call a taxi please?,Nyabuneka wahamagara itagisi?,Wabita tagisi nyamuneka?,0.3789906931,Nyabuneka wahamagara itagisi?
+Is everything included in this bill?,Byose bikubiye mu fagitire?,Ibintu byose byashyizwe muri iri tegeko?,0.2106561593,Byose bikubiye mu fagitire?
+Do you accept credit cards?,Mbese mwemera ikarita ya kredi?,Wemera amakarita yinguzanyo?,0.3942270898,Mbese mwemera ikarita ya kredi?
+I believe you made a mistake on this bill.,Ntekereza ko mwakoze ikosa kuri iyi fagitire.,Nizera ko wakoze ikosa kuri iri tegeko.,0.5669134116,Ntekereza ko mwakoze ikosa kuri iyi fagitire.
+It has been a good stay.,Twishimiye ubushyitsi twagize hano.,Byari byiza kuguma.,6.58E-155,Twishimiye ubushyitsi twagize hano.
+I want to pay.,Ndashaka kwishyura.,Ndashaka kwishyura.,0.94872948,Ndashaka kwishyura.
+We want to pay separately.,Turashaka kwishyura intandukane.,Turashaka kwishyura bitandukanye.,0.7946734597,Turashaka kwishyura intandukane.
+There is a mistake on the bill.,Hari ikosa kuri fagitire.,Hariho amakosa kuri fagitire.,0.7006061197,Hari ikosa kuri fagitire.
+What is this amount for?,Aya mafaranga teranije ni ay'iki?,Aya mafaranga ni ayahe,0.555673081,Aya mafaranga teranije ni ay'iki?
+Is service included?,Harimo ayo guhereza?,Serivisi irimo?,0.1531682455,Harimo ayo guhereza?
+Is everything included?,Byose bikubiyemo?,Ibintu byose birimo?,0.3721476572,Byose bikubiyemo?
+Do you accept traveler's checks?,Mwakira sheki z'urugendo?,Wemera cheque yingendo?,0.2727419107,Mwakira sheki z'urugendo?
+Do you accept credit cards?,Mwakira amarita ya kredi?/...yo kubikuza?,Wemera amakarita yinguzanyo?,0.3157230364,Mwakira amarita ya kredi?/...yo kubikuza?
+Thank you.,Murakoze.,Murakoze.,1,Murakoze.
+This is for you.,Aya ni ayanyu.,Ibi ni ibyawe.,0.2045806916,Aya ni ayanyu.
+That was good food.,Mwatetse neza cyane.,Ibyo byari ibiryo byiza.,5.35E-155,Mwatetse neza cyane.
+We enjoyed it.,Twabyishimiye.,Twaranezerewe.,3.52E-78,Twabyishimiye.
+Hello to the people of the house.,Yemwe aba hano.,Muraho neza bantu bo murugo.,4.06E-155,Yemwe aba hano.
+You are welcome.,Murakaza neza.,Urahawe ikaze.,4.07E-78,Murakaza neza.
+Thank you very much.,Murakoze cyane.,Murakoze cyane.,1,Murakoze cyane.
+Good morning.,Mwaramutseho.,Igitondo cyiza,1.17E-231,Mwaramutseho.
+Good evening.,Muriweho.,Umugoroba mwiza.,7.56E-232,Muriweho.
+How are you?,Mumeze mute?,Mumeze mute?,1,Mumeze mute?
+"Fine, thank you.",Meze neza. Murakoze.,"Ni byiza, murakoze.",0.3967088291,Meze neza. Murakoze.
+Would you like to have a drink?,Urashaka icyo kunywa?,Wakwifuza kugira icyo unywa?,0.4114822302,Urashaka icyo kunywa?
+"Yes, thank you.",Yee urakoze.,"Yego, urakoze.",0.6510803637,Yee urakoze.
+Would you like some tea?,Urashaka icyayi?,Wakwifuza ikindi cyayi?,0.2528864643,Urashaka icyayi?
+"Yes, I would.","Yee, ndagishaka.","Yego, nabikora.",4.13E-78,"Yee, ndagishaka."
+Can I help you in some way?,Hari icyo nakumarira?,Nshobora kugufasha muburyo runaka?,2.57E-78,Hari icyo nakumarira?
+"No, no problem.","Oya, oya nta kibazo.","Oya, ntakibazo.",0.585338253,"Oya, oya nta kibazo."
+I am coming.,Ndaje.,ndaje,0.5081327482,Ndaje.
+Thank you for the tea.,Urakoze gutanga icyayi.,Urakoze ku bw'icyayi.,0.5664439143,Urakoze gutanga icyayi.
+How is your work going?,Akazi kanyu karagenda neza?,Akazi kawe kamaze gute,0.3406227682,Akazi kanyu karagenda neza?
+Is your farm doing well?,Ubuhinzi bwanyu buragenda neza?,Umurima wawe urimo kugenda neza?,0.3775997094,Ubuhinzi bwanyu buragenda neza?
+Have the rains been good for you?,Imvura yababereye nziza?,Imvura yaba yaragiriye neza?,0.4906934908,Imvura yababereye nziza?
+What do you have planted now?,Ubu mwahinze myaka ki?,Niki wabibye ubu?,8.64E-155,Ubu mwahinze myaka ki?
+How is your livestock?,Amatungo ameze ate?,amatungo yawe ameze gute,0.5572671002,Amatungo ameze ate?
+Is your selling well at market?,Mugurisha neza ku masoko?,Ese ibicuruzwa byawe bigenda neza ku isoko?,0.2787852644,Mugurisha neza ku masoko?
+Which animals are you raising?,Mworora matungo ki?,Ni izihe nyamaswa zorora?,0.1942079862,Mworora matungo ki?
+Do you attend church?,Mbese muri mu itorero?,Ujya mu rusengero?,0.2537619201,Mbese muri mu itorero?
+Where do you go?,Mesengera he?,Ujya he?,0.2891784933,Mesengera he?
+Which church do you attend?,Ni irihe torero muri mo?,Ni irihe torero ujyaho?,0.6912896875,Ni irihe torero muri mo?
+Would you like to eat with us?,Mwaza tugasingira?,Wakwifuza gusangira natwe?,0.196921045,Mwaza tugasingira?
+Where can I wash my hands?,Nakaraba intoke hehe?,Nihe nakosereza intoki?,0.3311840698,Nakaraba intoke hehe?
+I want to wash my hands.,Ndashaka gukaraba intoke.,Ndashaka koza intoki.,0.5617848264,Ndashaka gukaraba intoke.
+Do you have any soap and water?,Hari isabune n' amazi?,Ufite isabune n'amazi?,0.663281941,Hari isabune n' amazi?
+Can you get me a hand towel?,Wambonera igitambaro cy' amazi?,Urashobora kunshakira igitambaro cyo mu ntoki?,0.3409664746,Wambonera igitambaro cy' amazi?
+Come let's eat breakfast.,Ngwino dusamure.,Ngwino reka turye ifunguro rya mugitondo.,0.0981842327,Ngwino dusamure.
+What do you want?,Urashaka iki?,Urashaka iki?,1,Urashaka iki?
+I need to urinate.,Ndashaka kwihagarika.,Nkeneye kujya koga.,3.17E-78,Ndashaka kwihagarika.
+I need to defecate.,Ndashaka kwituma.,Nkeneye guswera.,6.18E-155,Ndashaka kwituma.
+Is there toilet paper?,Hari urupapuro rw' umusarani?,Hari impapuro z'umusarani zihari?,0.5237691132,Hari urupapuro rw' umusarani?
+I want to take a bath.,Ndashaka kwiyuhagira hose.,Ndashaka koga.,0.3809933016,Ndashaka kwiyuhagira hose.
+Do you have hot water?,Hari amazi ashyushye?,Ufite amazi ashyushye?,0.7323567981,Hari amazi ashyushye?
+Will you heat some water for me?,Wanshyuhiriza amazi?,Uzanshyushya amazi?,0.6150523394,Wanshyuhiriza amazi?
+Where do I get water?,Ndabona amazi he?,Nakura he amazi?,0.4065220434,Ndabona amazi he?
+Do you have a bucket I may use?,Hari indobo nakoresha?,Ufite indobo nshobora gukoresha?,0.4264427046,Hari indobo nakoresha?
+I am tired.,Ndananiwe.,Ndarushye.,4.64E-78,Ndananiwe.
+I think I will go to bed now.,Ndatekereza ko nkwrinye kuryama.,Ndatekereza ko ngiye kuryama ubu.,0.718711098,Ndatekereza ko nkwrinye kuryama.
+What time do you wake up?,Ubyuka ryari?,Ubyuka isaha ki?,0.3928923897,Ubyuka ryari?
+I am afraid I have to leave now.,Mfite ubwoba. Ndashaka kugenda nonaha.,Mfite ubwoba ko ngomba kugenda nonaha.,0.7166175811,Mfite ubwoba. Ndashaka kugenda nonaha.
+,,,0.3935473271,
