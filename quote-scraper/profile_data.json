@@ -1,0 +1,84 @@
+{
+    "__typename": "User",
+    "id": "VXNlcjoxMzEwNjIzMDgxMzAwNDAyMTc4",
+    "rest_id": "1310623081300402178",
+    "affiliates_highlighted_label": {},
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "legacy": {
+        "created_at": "Mon Sep 28 16:51:22 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Web Scraping API - turn any website into a database!\n\nScrapFly allows you to quickly achieve your data goals without web scraping challenges and errors.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "scrapfly.io",
+                        "expanded_url": "https://scrapfly.io",
+                        "url": "https://t.co/1Is3k6KzyM",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 35,
+        "followers_count": 212,
+        "friends_count": 975,
+        "has_custom_timelines": true,
+        "is_translator": false,
+        "listed_count": 2,
+        "location": "Paris",
+        "media_count": 28,
+        "name": "Scrapfly",
+        "normal_followers_count": 212,
+        "pinned_tweet_ids_str": [],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310623081300402178/1601320645",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310658795715076098/XedZDwC7_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "Scrapfly_dev",
+        "statuses_count": 88,
+        "translator_type": "none",
+        "url": "https://t.co/1Is3k6KzyM",
+        "verified": false,
+        "withheld_in_countries": []
+    },
+    "legacy_extended_profile": {},
+    "is_profile_translatable": false,
+    "has_hidden_likes_on_profile": false,
+    "has_hidden_subscriptions_on_profile": false,
+    "verification_info": {
+        "is_identity_verified": false,
+        "reason": {
+            "description": {
+                "text": "This account is verified. Learn more",
+                "entities": [
+                    {
+                        "from_index": 26,
+                        "to_index": 36,
+                        "ref": {
+                            "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                            "url_type": "ExternalUrl"
+                        }
+                    }
+                ]
+            },
+            "verified_since_msec": "1681160800022"
+        }
+    },
+    "highlights_info": {
+        "can_highlight_tweets": true,
+        "highlighted_tweets": "0"
+    },
+    "user_seed_tweet_count": 0,
+    "business_account": {},
+    "creator_subscriptions_count": 0
+}
